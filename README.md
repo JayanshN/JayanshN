@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a second-year B.Tech student at Charusat University, Gujarat, India, studying Artificial Intelligence and Machine Learning. I'm passionate about building ML models and using the MERN stack for web development. I'm also keen on integrating AWS cloud solutions into my projects. Excited to explore and contribute to AI!
+I'm a third-year B.Tech student at Charusat University, Gujarat, India, studying Artificial Intelligence and Machine Learning. I'm passionate about building ML models and using the MERN stack for web development. I'm also keen on integrating AWS cloud solutions into my projects. Excited to explore and contribute to AI!
 
 
 ## 🌐 Socials:
